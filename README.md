@@ -1,4 +1,13 @@
 # Health_Care_Analysis
+
+# Tools & Library Used
+[<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
+
+# Project Result
+
+[Click here to get full code](https://github.com/Kirteerathod/Maven_Movies_Rental_DA/blob/main/MOVIES_RENTAL_CODE.sql)
+
+# Query Task
 1. How many patients are currently admitted to the hospital?
 
     <img src="./IMAGES/patient admitted.png" alt="email id list.png" width="400"/> &nbsp;
