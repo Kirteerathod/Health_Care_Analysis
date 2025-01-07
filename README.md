@@ -5,7 +5,7 @@
 
 # Project Result
 
-[Click here to get full code](https://github.com/Kirteerathod/Maven_Movies_Rental_DA/blob/main/MOVIES_RENTAL_CODE.sql)
+[Click here to get full code](https://github.com/Kirteerathod/Health_Care_Analysis/blob/main/HEALTH_CARE%20ANALYSIS.sql)
 
 # Query Task
 1. How many patients are currently admitted to the hospital?
