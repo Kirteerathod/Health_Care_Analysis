@@ -45,4 +45,4 @@
 
 13. Rank patients by their age.
 
-  <img src="./IMAGES/email id list.png" alt="email id list.png" width="400"/> &nbsp;
+  <img src="./IMAGES/rank by age.png" alt="email id list.png" width="400"/> &nbsp;
