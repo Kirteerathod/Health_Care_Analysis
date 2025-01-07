@@ -1,5 +1,16 @@
 # Health_Care_Analysis
 
+# project Overview
+This project demonstrates the use of SQL for healthcare data analysis. It involves querying and analyzing healthcare datasets to derive insights into patient care, hospital performance, and disease trends. The project showcases how SQL can be leveraged to process, analyze, and visualize healthcare-related data effectively.
+
+# Features
+Data Exploration: Initial analysis to understand the structure, quality, and distribution of healthcare data.
+Patient Data Analysis: Identifying trends in patient demographics, admissions, and treatment outcomes.
+Hospital Performance Metrics: Analyzing key performance indicators (KPIs) such as average length of stay, readmission rates, and patient satisfaction.
+Disease Trends: Tracking the prevalence and patterns of diseases over time and across regions.
+Data Cleaning and Transformation: Handling missing data, duplicates, and ensuring data consistency.
+Optimization: Writing efficient SQL queries to handle large datasets.
+
 # Tools & Library Used
 [<img src="./IMAGES/mysql.png" alt="mysql.png" width="100"/>](https://www.mysql.com/) &nbsp;
 
